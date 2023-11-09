@@ -1,6 +1,6 @@
 .blog-body {
   background: rgb(255, 228, 178);
-  background: linear-gradient(270deg, rgba(200, 157, 78, 0.737254902) 3%, rgba(255, 170, 161, 0.7137254902) 97%);
+  background: linear-gradient(270deg, rgba(104, 235, 255, 0.737254902) 3%, rgba(93, 148, 50, 0.7137254902) 97%);
 }
 .blog-body .content {
   padding-top: 50px;
